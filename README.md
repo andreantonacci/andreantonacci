@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Tilburg Science Hub](http://tilburgsciencehub.com)
 
-- 👨‍💻 All of my projects are available at [http://antona.cc](antona.cc)
+- 👨‍💻 All of my projects are available at [antona.cc](https://antona.cc)
 
 - 📫 You can reach out to me at **hello@andreantonacci.com**
 
