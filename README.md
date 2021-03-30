@@ -7,11 +7,6 @@
 
 - 📫 You can reach out to me at **hey@andreantonacci.com**
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="top" src="https://github-readme-stats.vercel.app/api?username=andreantonacci&count_private=true&show_icons=true" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreantonacci&langs_count=10&layout=compact" />
-</a>
-</br>
+![Andrea's stats](https://github-readme-stats.vercel.app/api?username=andreantonacci&count_private=true&show_icons=true)
 
+![Andrea's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andreantonacci&langs_count=10&layout=compact)
